@@ -24,7 +24,9 @@ Extra printed parts (in addition to the parts from https://github.com/boubounoke
 * Printed parts from this repository in the STL folder
 
 * Additional parts from the orginal Ender_SW repository:
+
          * Additional Upper Idlers left and right
+
          * Additional Motor mounts left and right for the Z motors (x_motor_mount and z_motor_mount)
 
 
