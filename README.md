@@ -1,5 +1,5 @@
-# voron_idex_switchwire
-IDEX version of Voron SwitchWire CoreXZ 3d printer
+# ENDER3PRO IDEX SW
+IDEX version of Voron SwitchWire CoreXZ 3d printer based on an Ender3 Pro
 
 This IDEX SW is based on an Ender3 pro conversion to a Voron SW - the base conversion mod used is the one here:
 
